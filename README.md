@@ -27,3 +27,6 @@ git remote add origin https://github.com/PraanavBhowmik/Sample_dvc_demo.git
 git branch -M main
 git push origin main
 
+made the params file
+
+make get_data file in src/get_data.py
