@@ -30,3 +30,5 @@ git push origin main
 made the params file
 
 make get_data file in src/get_data.py
+
+dvc repro
